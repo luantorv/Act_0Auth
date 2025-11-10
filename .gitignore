@@ -1,0 +1,8 @@
+mibandejagmail/.env
+mibandejagmail/__pycache__/
+mibandejagmail/mibandejagmail/__pycache__/
+mibandejagmail/gmailbox/__pycache__/
+mibandejagmail/gmailbox/migrations/
+mibandejagmail/db.sqlite3
+mibandejagmail/mibandejagmail/credentials.json
+auth/
